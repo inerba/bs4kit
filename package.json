@@ -1,0 +1,31 @@
+{
+  "name": "bs4sk",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 starter kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Inerba",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "gsap": "^1.20.4",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.1",
+    "scrollmagic": "^2.0.5"
+  }
+}

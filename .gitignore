@@ -1,0 +1,9 @@
+node_modules
+yarn-error.log
+assets
+content
+layouts
+pages
+partials
+src/css
+src/js
